@@ -1,0 +1,638 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    margin-top: 1px;
+    margin-left: 10px;
+
+}
+/*@media(max-width: 222px){
+    .img-banner{
+        width: 100%;
+    }
+    .logo{
+        width:100px;
+    }
+}*/
+
+.main-menu{
+    margin-top: -140px;
+    margin-left: 250px;
+    padding-left: 32px;
+}
+.main-menu ul li{
+    padding-left: 30px;
+}
+/*.container{
+    margin-left: 10px;
+}
+nav{
+    display: inline;
+}
+
+.navbar-brand{
+    margin-left: 150px;
+}*/
+#navbarSupportedContent ul li{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navbarSupportedContent ul li a:hover{
+    border-radius: 5px;
+    background-color: orange;
+}
+/*____________________CAROUSEL_____________________________*/
+.carousel-main{
+    width: 100%;
+}
+.carousel-indicators .active {
+    background: white !important;
+}
+
+#carouselExampleAutoplaying .carousel-indicators button {
+   width: 15px;
+   height: 5px;
+   border-radius: 100%;
+   
+}
+/*__________________MENU______________________________*/
+.menu{
+    width: 100%;
+    
+}
+.oval{
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-small;
+    padding-top: 24px;
+    padding-left: 35px;
+    margin-top: -769px;
+    margin-left:630px;
+    position: relative;
+    
+}
+#menu_a{
+    margin-left: 570px;
+    margin-top: 100px;
+   
+}
+#left-up-a{
+    margin-top: -358px;
+    margin-left: -351px;
+    }
+    .animate__animated.animate__bounceInUp {
+        --animate-duration: 5s;
+      }
+
+#left-mid-a{
+    margin-top: -178px;
+    margin-left:-112px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }
+#left-down-a{
+    margin-top: -93px;
+    margin-left: -40px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }
+/*_______________________________________________*/
+#right-up{
+    margin-top: -833px;
+    margin-left: 287px;
+}
+.animate__animated.animate__bounceInLeft {
+        --animate-duration: 3s;
+      }
+
+/*#right-mid{
+    margin-top: -1153px;
+    margin-left:272px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }*/
+#right-down{
+    margin-top: -518px;
+    margin-left: 256px;
+}
+.animate__animated.animate__bounceInRight {
+    --animate-duration: 5s;
+  }
+/*-------------------------------------------------*/
+#menu_b{
+    margin-left: 570px;
+}
+.lunch{
+    margin-left: -40px;
+}
+#left-up-b{
+    margin-top: -400px;
+    margin-left: -364px;
+    }
+    .animate__animated.animate__bounceInUp {
+        --animate-duration: 5s;
+      }
+
+#left-mid-b{
+    margin-top: -178px;
+    margin-left:-76px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }
+#left-down-b{
+    margin-top: -178px;
+    margin-left: 35px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }
+/*_______________________________________________*/
+#right-up-b{
+    margin-top: -872px;
+    margin-left: 350px;
+}
+.animate__animated.animate__bounceInLeft {
+        --animate-duration: 3s;
+      }
+
+#right-mid-b{
+    margin-top: -792px;
+    margin-left:467px;
+}
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 3s;
+  }
+#right-down-b{
+    margin-top: -583px;
+    margin-left: 264px;
+}
+.animate__animated.animate__bounceInRight {
+    --animate-duration: 5s;
+  }
+
+
+.carousel-control-prev img{
+    margin-top: -267px;
+}
+.carousel-control-next{
+    margin-top: -267px;
+}
+
+/*_________________PARRALAX__________________________*/
+
+.paralax-a img{
+background-image: url(./parralax.jpg);
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+/*border-radius: 30px;*/
+margin-top: -190px;
+}
+.paralax-a h4{
+    text-align: center;
+    margin-top: -308px;
+    margin-left: -18px;
+    color:white;
+}
+.paralax-a .para-1{
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.paralax-a .para-2{
+    text-align: center;
+    color:whitesmoke;
+    margin-top: 10px;
+    margin-left: 10px; 
+
+    
+}
+button{
+    width:150px ;
+    border-radius: 75px;
+    background-color:white;
+    color:black;
+}
+.about_us{
+        
+    width: 112px;
+    height: 63px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    padding-top: 22px;
+    padding-left: 21px;
+    margin-top: -382px;
+    margin-left:663px;
+    position: relative;
+    
+
+}
+.other-brands{
+    background-image: url(./parralax-a.jpg);
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+/*border-radius: 30px;*/
+margin-top: 52px;
+
+}
+.other-brands img{
+    height: 450px;
+}
+.other-brands-logo{
+    width: 112px;
+    height: 63px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    padding-top: 22px;
+    padding-left: 14px;
+    margin-top: -448px;
+    margin-left:681px;
+    position: relative;
+}
+.other-brands-grey{
+    height:285px;
+    width: 1141px;
+    background-color:rgba(129, 117, 117,0.8);
+    margin-top: 19px;
+    margin-left: 151px;
+    position: relative;
+}
+.brand-1{
+    width: 162px;
+    height: 157px;
+    background-color: white;
+    margin-top: 56px;
+    margin-left: 172px;
+    position: absolute;
+}
+.brand-1-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+}
+.brand-2{
+    width: 162px;
+    height: 157px;
+    background-color: white;
+    margin-top: 56px;
+    margin-left: 520px;
+    position: absolute;
+}
+.brand-2-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+}
+.brand-3{
+    width: 162px;
+    height: 157px;
+    background-color: white;
+    margin-top: 56px;
+    margin-left: 920px;
+    position: absolute;
+}
+.brand-3-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+}
+
+/*________contact_______________*/
+
+/*.contact-logo{
+    width: 144px;
+    height: 63px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding-top: 18px;
+    padding-left: 34px;
+    margin-top: -510px;
+    margin-left:717px;/*904*/
+   /* position: relative;
+
+}*/
+.box {
+    margin-left: 10px;
+    margin-top: -672px;
+    position:relative;
+
+}
+
+.last{
+    background-color: black;
+    height:100px;
+    width:100%
+    
+    
+}
+.last-p1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -77px;
+    margin-left: 501px;
+}
+
+
+
+@media( max-width: 849px){
+    .img-banner{
+        width: 410px;
+        height: 25px;
+        /*width: 100%;*/
+    }
+    .logo{
+        width:300px;
+    }
+    .main-menu{
+        width:100px;
+    }
+    .carousel-main{
+        width:410px;
+    }
+    .menu{
+        width:410px;
+    
+    }
+    .menu img{
+        height: 550px;
+    }
+    .oval{
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-small;
+    padding-top: 10px;
+    padding-left: 9px;
+    margin-top: -524px;
+    margin-left: 146px;
+    position: relative;
+    
+        /*margin-left: 155px;
+        text-align: center;*/
+    }
+    .breakfast{
+    
+        margin-left:-396px ;
+        margin-top: 80px;
+    }
+    #maino-menu{
+        width: 200px;
+        height: 200px;
+        margin-left: -71px;
+    }
+    .breakfast img{
+        width: 100px;
+        height: 100px;
+    }
+    #left-up-a{
+        margin-left: -118px;
+        width: 100px;
+    }
+    #right-up{
+        margin-left:67px ;
+        margin-top: -484px;
+    }
+    #right-mid{
+        margin-left: 92px;
+        margin-top: -410px;
+    }
+    #right-down{
+        margin-left:56px ;
+        margin-top:-319px;
+    }
+    /*_______________________________*/
+    .lunch{
+    
+        margin-left:-396px ;
+        margin-top: 80px;
+    }
+    #menu_b{
+        margin-left: 570px;
+        margin-top: 100px;
+    }
+    #maino-menu-b{
+        width: 200px;
+        height: 200px;
+        margin-left: -71px;
+    }
+    .lunch img{
+        width: 100px;
+        height: 100px;
+    }
+    #left-up-b{
+        margin-left: -118px;
+        width: 100px;
+    }
+    #left-mid-b{
+        margin-top: -188px;
+        margin-left: -112px;
+    }
+    /*#left-down-b{
+        margin-left:-25px ;
+        margin-top:-127px ;
+    }*/
+    #right-up-b{
+        margin-left:84px ;
+        margin-top: -383px;
+    }
+    /*#right-mid-b{
+        margin-left: -180px;
+        margin-top: -125px;
+    }*/
+    #right-down-b{
+        margin-left:64px ;
+        margin-top:-341px;
+    }
+    .carousel-control-prev img{
+        margin-top: -74px;
+        height: 100px;
+        width: 100px;
+    }
+    .carousel-control-next img{
+        margin-top: 192px;
+        height: 100px;
+        width: 100px;
+    }
+    .paralax-a{
+        margin-top: -170px;
+    }
+    .paralax-a img{
+        margin-top: -142px;
+        width: 100%;
+        height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*border-radius: 30px;*/
+
+    }
+    .parralax-alighn{
+        margin-top: 22px;
+        margin-left: 33px;
+    }
+    .about_us{
+        
+    width: 112px;
+    height: 63px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    padding-top: 21px;
+    padding-left: 21px;
+    margin-top: -378px;
+    margin-left:163px;
+    position: relative;
+    
+
+}
+.other-brands{
+    background-image: url(./parralax-a.jpg);
+    background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;*/
+/*border-radius: 30px;*/
+margin-top: 1px;
+    
+}
+.other-brands-logo{
+    width: 112px;
+    height: 63px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    padding-top: 22px;
+    padding-left: 14px;
+    margin-top: -448px;
+    margin-left:175px;
+    position: relative;
+    
+
+}
+.other-brands-grey{
+    height:340px;/*285*/
+    width: 285px;/*1141px*/
+    background-color:rgba(129, 117, 117,0.8);
+    margin-top: 19px;
+    margin-left: 83px;/*151*/
+    position: relative;
+}
+
+
+.brand-1{
+    width: 162px;/*162px*/
+    height: 159px;/*159*/
+    background-color: white;
+    margin-top: 3px;/*56px*/
+    margin-left: 76px;/*172*/
+    position: absolute;
+}
+.brand-1-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+}
+.brand-2{
+    width: 162px;
+    height: 157px;
+    background-color: white;
+    margin-top: 174px;
+    margin-left: 78px;
+    position: absolute;
+}
+.brand-2-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+}
+.brand-3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 174px;
+    margin-left: 78px;
+    position: absolute;
+}
+.brand-3-button{
+    background-color: red;
+    color: white;
+    margin-left: 4px;
+    display: none;
+}
+
+
+.contact-logo{
+    width: 102px;
+    height: 53px;
+    background-color: brown;
+    border-radius: 100px/50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    padding-top: 18px;
+    padding-left: 28px;
+    margin-top: -794px;
+    margin-left:171px;/*904*/
+    position: relative;
+
+}
+
+/*.last{
+    background-color: black;
+    height:100px;
+    width:100%
+    
+    
+}
+.last-p1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -77px;
+    margin-left: 501px;
+}*/
+
+
+
+
+}
+
+
+    
+    
+
+
+ 
+
